@@ -44,4 +44,5 @@ O suporte ao cliente mostrou impacto relevante no cancelamento.
 ✍️ Autor
 
 João Victor Lima
+
 Linkedin : https://www.linkedin.com/in/joao-victor-lima-dev/
